@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Zelda'  ;
+    src: url(font/The\ Wild\ Breath\ of\ Zelda_D-Day.otf) format('opentype');
+    font-weight: 400;
+    font-style:normal;
+    text-shadow: 2px 4px 6px rgba(32,36,42,0.68);
+}
+
+.font-zelda{
+    font-family:'Zelda',sans-serif;
+
+}
+
+.font-times{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hero {
+text-shadow: 2px 4px 6px rgba(32,36,42,0.68); }
