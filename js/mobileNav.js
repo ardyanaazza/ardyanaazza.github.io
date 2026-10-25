@@ -23,7 +23,7 @@ hamburgerBtn.addEventListener("click", () => {
         hamburgerIcon.classList.remove("hidden");
         closeIcon.classList.add("hidden");
 
-        document.body.style.overflow = " ";
+        document.body.style.overflow = "";
     }
 })
 
